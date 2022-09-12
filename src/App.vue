@@ -1,12 +1,9 @@
-<script>
+<script setup lang="ts">
   export default{
     data:() =>({
-      contador : 500,
+     contador : 500,
     }),
     methods:{
-      saludar(){
-        console.log("Hola Andrade");
-      },
       incrementar(){
         this.contador++;
       },
