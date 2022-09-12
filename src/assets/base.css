@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,200&display=swap');
+}
+body {
+  background-color:rgb(125, 214, 218) ;
+  margin: 5%;
+  font-family: 'Poppins', sans-serif;
+}
+.containercontent{
+  width: 100%;
+}
+.modalcontainer{
+  width: fit-content;
+  height: fit-content;
+}
